@@ -25,3 +25,8 @@
 - Recognized by faculty and peers for originality and depth.
 - Sharpened skills at the intersection of cutting-edge AI research and scalable analytics.
 - Provided reusable evaluation tools for fairness and bias analyses in NLP.
+
+### Domain Diagram
+<div style="text-align: center;">
+  <img src="/Domain_Diagram.jpg" alt="Domain Diagram" />
+</div>
