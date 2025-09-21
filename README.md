@@ -30,3 +30,7 @@
 <div style="text-align: center;">
   <img src="/Domain_Diagram.jpg" alt="Domain Diagram" />
 </div>
+Here is my poster for Capstone Presentation: 
+: <div style="text-align: center;">
+  <img src="/Capstone_Poster.jpg" alt="Capstone_Poster" />
+</div>
